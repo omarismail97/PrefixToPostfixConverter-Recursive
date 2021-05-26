@@ -1,0 +1,12 @@
+AB+C-
+A-BC+
+AB-C+D+EF-$
+A*B$C+DE-EF*-
+A*BC+C+BA-*
+A/BC+C+BA*   
+AB-C*BA+  -*
+A/BC-BA-  +/
+A$BC+C+BA- *
+A/B+C-BA+0/
+A$BC^C+BA-					*
+No operator at first index

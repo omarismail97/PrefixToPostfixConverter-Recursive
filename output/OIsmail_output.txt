@@ -1,0 +1,8 @@
+AB*
+AB+C*
+A*BC+
+AB/CD/+
+AB+CD+*
+AB+CD*-
+No operator at first index
+Expression does not meet required minimum length

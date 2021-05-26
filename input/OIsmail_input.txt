@@ -1,0 +1,8 @@
+*AB
+*+ABC
+*A+BC
++/AB/CD
+*+AB+CD
+-*+ABCD
+ABC*+
+*B
